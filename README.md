@@ -80,7 +80,7 @@ Step 5: Configure Agents (workers) → Navigate to Admin Panel → Agents → Ad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 6: Configure Users (customers) → Navigate to Agent Panel → Users → Add New → Example: Karen and Ken.
+Step 6: Configure Users (customers) → Navigate to Agent Panel → Users → Add New → Example: James and Janis.
 </p>
 <br />
 
