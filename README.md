@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="/images/step1-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 1: Configure Roles (for grouping permissions) → Navigate to Admin Panel → Agents → Roles → Create role: Supreme Admin.
