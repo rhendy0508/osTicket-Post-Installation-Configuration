@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="/images/step1-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1: Configure Roles (for grouping permissions) → Navigate to Admin Panel → Agents → Roles → Create role: Supreme Admin.
+Step 1: Configured Roles (for grouping permissions) → Navigated to Admin Panel → Agents → Roles → Create role: Supreme Admin.
 
 </p>
 <br />
@@ -49,7 +49,7 @@ Step 1: Configure Roles (for grouping permissions) → Navigate to Admin Panel �
 <img src="/images/step2-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2: Configure Departments (Ticket Visibility) → Navigate to Admin Panel → Agents → Departments → Create department: SysAdmins.
+Step 2: Configured Departments (Ticket Visibility) → Navigated to Admin Panel → Agents → Departments → Create department: SysAdmins.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Step 2: Configure Departments (Ticket Visibility) → Navigate to Admin Panel �
 <img src="/images/step3-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3: Configure Teams → Navigate to Admin Panel → Agents → Teams → Create team: Online Banking → Pull agents from different departments as needed.
+Step 3: Configured Teams → Navigated to Admin Panel → Agents → Teams → Created team: Online Banking → Pulled agents from different departments as needed.
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Step 3: Configure Teams → Navigate to Admin Panel → Agents → Teams → Cre
 <img src="/images/step4-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 4: Configure User Registration Settings (Ticket Access Control) → Navigate to Admin Panel → Settings → User Settings → Uncheck "Unregistered users can create tickets" → Require registration/login to create tickets.
+Step 4: Configured User Registration Settings (Ticket Access Control) → Navigated to Admin Panel → Settings → User Settings → Uncheck "Unregistered users can create tickets" → Require registration/login to create tickets.
 
 
 </p>
@@ -76,7 +76,7 @@ Step 4: Configure User Registration Settings (Ticket Access Control) → Navigat
 <img src="/images/step5-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 5: Configure Agents (workers) → Navigate to Admin Panel → Agents → Add New → Example: Jane (Dept: SysAdmins), John (Dept: Support).
+Step 5: Configured Agents (workers) → Navigated to Admin Panel → Agents → Add New → Example: Jane (Dept: SysAdmins), John (Dept: Support).
 </p>
 <br />
 
@@ -84,7 +84,7 @@ Step 5: Configure Agents (workers) → Navigate to Admin Panel → Agents → Ad
 <img src="/images/step6-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 6: Configure Users (customers) → Navigate to Agent Panel → Users → Add New → Example: James and Janis.
+Step 6: Configured Users (customers) → Navigated to Agent Panel → Users → Add New → Example: James and Janis.
 </p>
 <br />
 
@@ -92,7 +92,7 @@ Step 6: Configure Users (customers) → Navigate to Agent Panel → Users → Ad
 <img src="/images/step7-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 7: Configure SLA → Navigate to Admin Panel → Manage → SLA → Create policies: Sev-A (1 hr, 24/7), Sev-B (4 hrs, 24/7), Sev-C (8 hrs, Business Hours).
+Step 7: Configured SLA → Navigated to Admin Panel → Manage → SLA → Created policies: Sev-A (1 hr, 24/7), Sev-B (4 hrs, 24/7), Sev-C (8 hrs, Business Hours).
 </p>
 <br />
 
@@ -100,6 +100,6 @@ Step 7: Configure SLA → Navigate to Admin Panel → Manage → SLA → Create 
 <img src="/images/step8-post-config.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 8: Configure Help Topics (For when users create a ticket) → Navigate to Admin Panel → Manage → Help Topics → Add: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other.
+Step 8: Configured Help Topics (For when users create a ticket) → Navigated to Admin Panel → Manage → Help Topics → Add: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other.
 </p>
 <br />
